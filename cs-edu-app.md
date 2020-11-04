@@ -21,3 +21,4 @@
 Η περίπτωση χρήσης που παρουσιάστηκε βασίζεται στο άρθρο Mobile learning technology based on iOS devices to support students with special education needs των Alvaro Fernandez-Lopez et al.[1]
 
 [1] Fernández-López, Á., Rodríguez-Fórtiz, M. J., Rodríguez-Almendros, M. L., & Martínez-Segura, M. J. (2013). Mobile learning technology based on iOS devices to support students with special education needs. Computers and Education, 61, 77-90. doi:10.1016/j.compedu.2012.09.014
+
